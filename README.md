@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sophicapri
 - 👀 I’m interested in Kotlin Android Development
 - 🌱 I’m currently learning more about Clean Architecture, Hilt, GraphQL...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sophi-capri/)
+- 📫 How to reach me: sophie.capricorne@gmail.com
