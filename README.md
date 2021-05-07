@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sophicapri
+- 👋 Hi, I’m Sophie
 - 👀 I’m interested in Kotlin Android Development
-- 🌱 I’m currently learning more about Hilt, GraphQL, LeakCanary...
+- 🌱 I’m currently prep'ing for my future technical interviews to find my first job in Android Development!
 - 📫 How to reach me: sophie.capricorne@gmail.com
