@@ -5,5 +5,6 @@
 
 
 **Books I Recommend:**
-- "Clean Code", Robert C. Martin
-- 
+- "Clean Code" - Robert C. Martin
+- "Clean Architecture" - Robert C. Martin
+- "Head First Design Patterns" - Eric Freeman & Elisabeth Robson
