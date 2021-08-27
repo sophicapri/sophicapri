@@ -13,3 +13,6 @@ Git Config   8 mins          ▒░░░░░░░░░░░░░░░░
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sophicapri&show_icons=true)
+
