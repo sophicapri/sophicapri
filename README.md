@@ -16,4 +16,5 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sophicapri&show_icons=true&theme=buefy)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sophicapri/github-readme-stats)
 
