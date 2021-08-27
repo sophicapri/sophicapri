@@ -14,7 +14,7 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sophicapri&show_icons=true&theme=buefy)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sophicapri&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophicapri&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
