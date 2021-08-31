@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2021 - 29 August, 2021
+Week: 24 August, 2021 - 30 August, 2021
 
 Kotlin       13 hrs 21 mins  ███████████████████████▓░   95.08 % 
 Groovy       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
