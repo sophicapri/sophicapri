@@ -6,13 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2021 - 19 October, 2021
-
-Kotlin   35 hrs 44 mins  █████████████████████▓░░░   86.01 % 
-XML      3 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Groovy   1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Java     46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
