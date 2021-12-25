@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sophie
-- 👀 I’m an Android Developer
-- 🌱 I’m currently learning about Compose and Kotlin Multiplatform Mobile !
+- 👀 I’m an Android Developer based in Paris
 - 📫 How to reach me: sophie.capricorne@gmail.com
 
 
