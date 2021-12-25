@@ -6,7 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 December, 2021 - 24 December, 2021
+
+Java     26 mins         ███████████████████████░░   91.67 % 
+Kotlin   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 <!--END_SECTION:waka-->
 
