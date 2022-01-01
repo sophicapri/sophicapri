@@ -5,10 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
-Java     56 mins         ████████████████████████░   95.84 % 
-Kotlin   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Java   29 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
