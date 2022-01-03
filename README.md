@@ -5,9 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
-Java   29 mins         █████████████████████████   100.00 % 
+Java     29 mins         ███████████▓░░░░░░░░░░░░░   46.54 % 
+Kotlin   20 mins         ████████░░░░░░░░░░░░░░░░░   32.26 % 
+XML      10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Groovy   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 <!--END_SECTION:waka-->
 
