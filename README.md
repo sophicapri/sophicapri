@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
 Java                   59 mins         ██████████▓░░░░░░░░░░░░░░   43.18 % 
 Kotlin                 47 mins         ████████▓░░░░░░░░░░░░░░░░   34.64 % 
