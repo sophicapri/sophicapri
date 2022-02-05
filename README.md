@@ -6,13 +6,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
-Kotlin       12 hrs 6 mins   ███████████████▒░░░░░░░░░   61.89 % 
-Java         4 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-XML          2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Groovy       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Kotlin       13 hrs 48 mins  ████████████████░░░░░░░░░   63.96 % 
+Java         4 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.88 % 
+XML          2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Properties   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Groovy       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
 
