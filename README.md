@@ -6,9 +6,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
-Kotlin       13 hrs 41 mins  ████████████████▓░░░░░░░░   66.03 % 
+Kotlin       13 hrs 41 mins  ████████████████▓░░░░░░░░   66.02 % 
 Java         3 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.72 % 
 XML          2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 Properties   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
