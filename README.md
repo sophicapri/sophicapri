@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
+From: 25 March 2022 - To: 01 April 2022
 
-Kotlin                 13 hrs 29 mins  ████████████████░░░░░░░░░   64.17 %
-Java                   6 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   32.07 %
-XML                    28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Groovy                 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-INI                    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Shrinker Config File   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Kotlin                 13 hrs 11 mins  ████████████████▒░░░░░░░░   65.70 %
+Java                   5 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
+XML                    1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+INI                    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Groovy                 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Shrinker Config File   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
