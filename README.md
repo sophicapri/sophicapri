@@ -7,10 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2022 - To: 20 May 2022
+From: 14 May 2022 - To: 21 May 2022
 
-Kotlin                 7 hrs 55 mins   ██████████▒░░░░░░░░░░░░░░   41.14 %
-Groovy                 4 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+Kotlin                 7 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   40.96 %
+Groovy                 4 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
 Java                   2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
 INI                    1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 Shrinker Config File   1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
