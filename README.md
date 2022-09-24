@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-Kotlin                 27 hrs          ████████████████████████▒   96.87 %
-XML                    34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Java                   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-JSON                   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Kotlin                 25 hrs 26 mins  ████████████████████████▒   97.21 %
+XML                    27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Java                   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JSON                   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ObjectiveC             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
