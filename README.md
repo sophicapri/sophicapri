@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
 Kotlin                 16 hrs 24 mins  ██████████████████████░░░   87.74 %
 YAML                   1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
