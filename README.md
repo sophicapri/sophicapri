@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-Kotlin                 13 hrs 10 mins  ██████████████████▒░░░░░░   73.77 %
-YAML                   3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Properties             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Java                   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-XML                    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Kotlin                 15 hrs 5 mins   ███████████████████░░░░░░   76.26 %
+YAML                   3 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.91 %
+Properties             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Java                   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+XML                    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
