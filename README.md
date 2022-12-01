@@ -7,14 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 28 November 2022
-
-Kotlin           1 hr 20 mins    ████████████████████████▒   96.83 %
-GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-ObjectiveC       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
