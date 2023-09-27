@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-Kotlin            4 hrs 5 mins    █████████████████████▒░░░   84.74 %
-Markdown          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Swift             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Properties        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Java              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Kotlin            3 hrs 45 mins   █████████████████████░░░░   83.68 %
+Markdown          23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Swift             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Properties        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Java              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
