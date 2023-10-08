@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Kotlin           2 hrs 18 mins   ██████████████████▓░░░░░░   74.72 %
-Groovy           26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Gradle           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-textmate         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-GDScript3        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Kotlin      24 mins         ████████████████████████░   96.04 %
+Groovy      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+textmate    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
