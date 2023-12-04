@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-No activity tracked
+Kotlin        3 hrs 18 mins   █████████████▒░░░░░░░░░░░   52.80 %
+Swift         2 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.17 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TOML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
