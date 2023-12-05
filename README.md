@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-Kotlin        3 hrs 18 mins   █████████████▒░░░░░░░░░░░   52.80 %
-Swift         2 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.17 %
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-TOML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Swift         5 hrs 47 mins   ███████████████░░░░░░░░░░   60.14 %
+Kotlin        3 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   39.12 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TOML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
