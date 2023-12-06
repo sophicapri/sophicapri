@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2023 - To: 03 December 2023
+From: 27 November 2023 - To: 04 December 2023
 
-Swift         5 hrs 47 mins   ███████████████░░░░░░░░░░   60.14 %
-Kotlin        3 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   39.12 %
+Swift         5 hrs 48 mins   ███████████████░░░░░░░░░░   60.16 %
+Kotlin        3 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   39.10 %
 Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 TOML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
