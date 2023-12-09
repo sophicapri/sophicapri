@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2023 - To: 06 December 2023
+From: 30 November 2023 - To: 07 December 2023
 
 Swift         5 hrs 48 mins   ███████████████░░░░░░░░░░   60.14 %
 Kotlin        3 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   39.09 %
