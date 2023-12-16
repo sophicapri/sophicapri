@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-Other    14 mins         ██████████████░░░░░░░░░░░   56.37 %
-Kotlin   11 mins         ███████████░░░░░░░░░░░░░░   43.63 %
+Other    15 mins         ██████████████▓░░░░░░░░░░   58.60 %
+Kotlin   11 mins         ██████████▒░░░░░░░░░░░░░░   41.40 %
 ```
 
 <!--END_SECTION:waka-->
