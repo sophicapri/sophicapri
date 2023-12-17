@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
 Other    15 mins         ██████████████▓░░░░░░░░░░   58.60 %
 Kotlin   11 mins         ██████████▒░░░░░░░░░░░░░░   41.40 %
