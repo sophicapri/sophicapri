@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 27 September 2024
+From: 21 September 2024 - To: 28 September 2024
 
-Kotlin           1 hr 4 mins     ██████████████████▓░░░░░░   74.11 %
-Markdown         22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Kotlin                 10 hrs 29 mins  █████████████████████░░░░   83.76 %
+Markdown               1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+XML                    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Java                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Shell Script           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
